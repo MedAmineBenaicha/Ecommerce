@@ -1,0 +1,49 @@
+<?php
+
+	/*
+		Notre template pour les pages !!
+	*/
+	ob_start();	// Output buffering start
+
+	session_start(); // debut de session
+
+	if(isset($_SESSION['Username'])) {
+
+		$pageTitle='Categories'; //Le titre de notre Page
+
+		include 'init.php'; // inserer le fichier init.php qui contient tou nos fichier comme le header langues fonctions ....
+
+		$do='';
+
+		$do=isset($_GET['do']) ? $_GET['do'] : 'Manage';
+
+		if($do=='Manage') { // La page de management des utilisateurs !!
+
+			echo "You are Welcome";
+			
+		}
+		else if($do=='Add'){
+			
+		}
+		else if($do=='Insert'){
+
+		}
+		else if($do=='Edit') { //editer l'utilisateur .
+			
+		}
+		else if($do=='Update'){
+
+		}
+		else if($do=='Delete') {
+
+		}
+		
+		include $tpl.'footer.php'; //inserer notre footer de la page
+	}
+	else{
+		header('location:index.php');
+		exit();
+	}
+
+	ob_end_flush();
+?>

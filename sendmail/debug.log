@@ -1,0 +1,261 @@
+20/07/23 11:46:38 ** --- MESSAGE BEGIN ---
+20/07/23 11:46:38 ** To: amine98ben90@gmail.com
+20/07/23 11:46:38 ** Subject: le sujet
+20/07/23 11:46:38 ** From: amirimed20@gmail.com
+20/07/23 11:46:38 ** 
+20/07/23 11:46:38 ** Payment Done
+20/07/23 11:46:38 ** --- MESSAGE END ---
+20/07/23 11:46:38 ** Connecting to smtp.gmail.com:465
+20/07/23 11:46:39 ** Connected.
+20/07/23 11:46:39 << 220 smtp.gmail.com ESMTP z8sm2832340wmi.6 - gsmtp<EOL>
+20/07/23 11:46:39 >> EHLO DESKTOP-JPU7NVE<EOL>
+20/07/23 11:46:39 << 250-smtp.gmail.com at your service, [105.67.129.152]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/23 11:46:39 ** Authenticating as amirimed20@gmail.com
+20/07/23 11:46:39 >> AUTH LOGIN<EOL>
+20/07/23 11:46:39 << 334 VXNlcm5hbWU6<EOL>
+20/07/23 11:46:39 >> YW1pcmltZWQyMEBnbWFpbC5jb20=<EOL>
+20/07/23 11:46:39 << 334 UGFzc3dvcmQ6<EOL>
+20/07/23 11:46:39 >> bW9oYW1lZGFtaXJpMTc=<EOL>
+20/07/23 11:46:39 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials z8sm2832340wmi.6 - gsmtp<EOL>
+20/07/23 11:46:39 ** Disconnecting from smtp.gmail.com:465
+20/07/23 11:46:39 ** Disconnected.
+20/07/23 11:46:39 ** Disconnected.
+20/07/23 11:46:39 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials z8sm2832340wmi.6 - gsmtp<EOL>
+20/07/23 11:55:58 ** --- MESSAGE BEGIN ---
+20/07/23 11:55:58 ** To: amine98ben90@gmail.com
+20/07/23 11:55:58 ** Subject: le sujet
+20/07/23 11:55:58 ** From: amirimed20@gmail.com
+20/07/23 11:55:58 ** 
+20/07/23 11:55:58 ** Payment Done
+20/07/23 11:55:58 ** --- MESSAGE END ---
+20/07/23 11:55:58 ** Connecting to smtp.gmail.com:465
+20/07/23 11:55:59 ** Connected.
+20/07/23 11:55:59 << 220 smtp.gmail.com ESMTP o4sm2869618wmc.13 - gsmtp<EOL>
+20/07/23 11:55:59 >> EHLO DESKTOP-JPU7NVE<EOL>
+20/07/23 11:55:59 << 250-smtp.gmail.com at your service, [105.67.129.152]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/23 11:55:59 ** Authenticating as amirimed20@gmail.com
+20/07/23 11:55:59 >> AUTH LOGIN<EOL>
+20/07/23 11:55:59 << 334 VXNlcm5hbWU6<EOL>
+20/07/23 11:55:59 >> YW1pcmltZWQyMEBnbWFpbC5jb20=<EOL>
+20/07/23 11:55:59 << 334 UGFzc3dvcmQ6<EOL>
+20/07/23 11:55:59 >> bW9oYW1lZGFtaXJpMTc=<EOL>
+20/07/23 11:55:59 << 235 2.7.0 Accepted<EOL>
+20/07/23 11:55:59 >> MAIL FROM: <amirimed20@gmail.com><EOL>
+20/07/23 11:55:59 << 250 2.1.0 OK o4sm2869618wmc.13 - gsmtp<EOL>
+20/07/23 11:55:59 >> RCPT TO: <amine98ben90@gmail.com><EOL>
+20/07/23 11:55:59 << 250 2.1.5 OK o4sm2869618wmc.13 - gsmtp<EOL>
+20/07/23 11:55:59 >> DATA<EOL>
+20/07/23 11:55:59 << 354  Go ahead o4sm2869618wmc.13 - gsmtp<EOL>
+20/07/23 11:55:59 >> Date: Thu, 23 Jul 2020 11:55:59 +0100<EOL>
+20/07/23 11:55:59 >> To: amine98ben90@gmail.com<EOL>
+20/07/23 11:55:59 >> Subject: le sujet<EOL>
+20/07/23 11:55:59 >> From: amirimed20@gmail.com<EOL>
+20/07/23 11:55:59 >> <EOL>
+20/07/23 11:55:59 >> Payment Done<EOL>
+20/07/23 11:55:59 >> .<EOL>
+20/07/23 11:56:00 << 250 2.0.0 OK  1595501761 o4sm2869618wmc.13 - gsmtp<EOL>
+20/07/23 11:56:00 >> QUIT<EOL>
+20/07/23 11:56:00 << 221 2.0.0 closing connection o4sm2869618wmc.13 - gsmtp<EOL>
+20/07/23 11:56:00 ** Disconnected.
+20/07/23 11:56:00 ** Disconnected.
+20/07/23 11:56:00 ** Disconnected.
+20/07/23 12:51:24 ** --- MESSAGE BEGIN ---
+20/07/23 12:51:24 ** To: Houda-ami51@live.fr
+20/07/23 12:51:24 ** Subject: Chriti Mn 3adnaaa had l produit HHH
+20/07/23 12:51:24 ** From: ecommerceensa@gmail.com
+20/07/23 12:51:24 ** 
+20/07/23 12:51:24 ** Mabrouuuuuk tzarraftiii HHHHHHHHH
+20/07/23 12:51:24 ** --- MESSAGE END ---
+20/07/23 12:51:24 ** Connecting to smtp.gmail.com:465
+20/07/23 12:51:25 ** Connected.
+20/07/23 12:51:25 << 220 smtp.gmail.com ESMTP j75sm3584859wrj.22 - gsmtp<EOL>
+20/07/23 12:51:25 >> EHLO DESKTOP-JPU7NVE<EOL>
+20/07/23 12:51:25 << 250-smtp.gmail.com at your service, [105.67.129.152]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/23 12:51:25 ** Authenticating as ecommerceensa@gmail.com
+20/07/23 12:51:25 >> AUTH LOGIN<EOL>
+20/07/23 12:51:25 << 334 VXNlcm5hbWU6<EOL>
+20/07/23 12:51:25 >> ZWNvbW1lcmNlZW5zYUBnbWFpbC5jb20=<EOL>
+20/07/23 12:51:25 << 334 UGFzc3dvcmQ6<EOL>
+20/07/23 12:51:25 >> RW5zYTAxMjM=<EOL>
+20/07/23 12:51:26 << 235 2.7.0 Accepted<EOL>
+20/07/23 12:51:26 >> MAIL FROM: <ecommerceensa@gmail.com><EOL>
+20/07/23 12:51:26 << 250 2.1.0 OK j75sm3584859wrj.22 - gsmtp<EOL>
+20/07/23 12:51:26 >> RCPT TO: <Houda-ami51@live.fr><EOL>
+20/07/23 12:51:26 << 250 2.1.5 OK j75sm3584859wrj.22 - gsmtp<EOL>
+20/07/23 12:51:26 >> DATA<EOL>
+20/07/23 12:51:26 << 354  Go ahead j75sm3584859wrj.22 - gsmtp<EOL>
+20/07/23 12:51:26 >> Date: Thu, 23 Jul 2020 12:51:26 +0100<EOL>
+20/07/23 12:51:26 >> To: Houda-ami51@live.fr<EOL>
+20/07/23 12:51:26 >> Subject: Chriti Mn 3adnaaa had l produit HHH<EOL>
+20/07/23 12:51:26 >> From: ecommerceensa@gmail.com<EOL>
+20/07/23 12:51:26 >> <EOL>
+20/07/23 12:51:26 >> Mabrouuuuuk tzarraftiii HHHHHHHHH<EOL>
+20/07/23 12:51:26 >> .<EOL>
+20/07/23 12:51:27 << 250 2.0.0 OK  1595505087 j75sm3584859wrj.22 - gsmtp<EOL>
+20/07/23 12:51:27 >> QUIT<EOL>
+20/07/23 12:51:27 << 221 2.0.0 closing connection j75sm3584859wrj.22 - gsmtp<EOL>
+20/07/23 12:51:27 ** Disconnecting from smtp.gmail.com:465
+20/07/23 12:51:27 ** Disconnected.
+20/07/23 12:51:27 ** Disconnected.
+20/07/23 13:26:29 ** --- MESSAGE BEGIN ---
+20/07/23 13:26:29 ** To: amine98ben90@gmail.com
+20/07/23 13:26:29 ** Subject: Payment - Ecommerce Ensa
+20/07/23 13:26:29 ** From: ecommerceensa@gmail.com
+20/07/23 13:26:29 ** 
+20/07/23 13:26:29 ** Bonjour,
+20/07/23 13:26:29 ** 									Nous vous informons que votre transaction a bien été confirmée. Voici le détail de l’opération :
+20/07/23 13:26:29 ** 
+20/07/23 13:26:29 ** 									Site web : ecommerceensa
+20/07/23 13:26:29 ** 									Nom du client : Mohamed Amine benaicha
+20/07/23 13:26:29 ** 									Email du client  : amine98ben90@gmail.com
+20/07/23 13:26:29 ** 									Montant transaction : 5299 MAD
+20/07/23 13:26:29 ** 									Pour plus d'informations, prière de prendre contact avec votre marchand.
+20/07/23 13:26:29 ** 									On vous remercie.
+20/07/23 13:26:29 ** --- MESSAGE END ---
+20/07/23 13:26:30 ** Connecting to smtp.gmail.com:465
+20/07/23 13:26:30 ** Connected.
+20/07/23 13:26:30 << 220 smtp.gmail.com ESMTP k126sm3596997wme.17 - gsmtp<EOL>
+20/07/23 13:26:30 >> EHLO DESKTOP-JPU7NVE<EOL>
+20/07/23 13:26:30 << 250-smtp.gmail.com at your service, [105.67.129.152]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/23 13:26:30 ** Authenticating as ecommerceensa@gmail.com
+20/07/23 13:26:30 >> AUTH LOGIN<EOL>
+20/07/23 13:26:30 << 334 VXNlcm5hbWU6<EOL>
+20/07/23 13:26:30 >> ZWNvbW1lcmNlZW5zYUBnbWFpbC5jb20=<EOL>
+20/07/23 13:26:31 << 334 UGFzc3dvcmQ6<EOL>
+20/07/23 13:26:31 >> RW5zYTAxMjM=<EOL>
+20/07/23 13:26:31 << 235 2.7.0 Accepted<EOL>
+20/07/23 13:26:31 >> MAIL FROM: <ecommerceensa@gmail.com><EOL>
+20/07/23 13:26:31 << 250 2.1.0 OK k126sm3596997wme.17 - gsmtp<EOL>
+20/07/23 13:26:31 >> RCPT TO: <amine98ben90@gmail.com><EOL>
+20/07/23 13:26:31 << 250 2.1.5 OK k126sm3596997wme.17 - gsmtp<EOL>
+20/07/23 13:26:31 >> DATA<EOL>
+20/07/23 13:26:31 << 354  Go ahead k126sm3596997wme.17 - gsmtp<EOL>
+20/07/23 13:26:31 >> Date: Thu, 23 Jul 2020 13:26:31 +0100<EOL>
+20/07/23 13:26:31 >> To: amine98ben90@gmail.com<EOL>
+20/07/23 13:26:31 >> Subject: Payment - Ecommerce Ensa<EOL>
+20/07/23 13:26:31 >> From: ecommerceensa@gmail.com<EOL>
+20/07/23 13:26:31 >> <EOL>
+20/07/23 13:26:31 >> Bonjour,<EOL>
+20/07/23 13:26:31 >> 									Nous vous informons que votre transaction a bien été confirmée. Voici le détail de l’opération :<EOL>
+20/07/23 13:26:31 >> <EOL>
+20/07/23 13:26:31 >> 									Site web : ecommerceensa<EOL>
+20/07/23 13:26:31 >> 									Nom du client : Mohamed Amine benaicha<EOL>
+20/07/23 13:26:31 >> 									Email du client  : amine98ben90@gmail.com<EOL>
+20/07/23 13:26:31 >> 									Montant transaction : 5299 MAD<EOL>
+20/07/23 13:26:31 >> 									Pour plus d'informations, prière de prendre contact avec votre marchand.<EOL>
+20/07/23 13:26:31 >> 									On vous remercie.<EOL>
+20/07/23 13:26:31 >> .<EOL>
+20/07/23 13:26:32 << 250 2.0.0 OK  1595507193 k126sm3596997wme.17 - gsmtp<EOL>
+20/07/23 13:26:32 >> QUIT<EOL>
+20/07/23 13:26:32 << 221 2.0.0 closing connection k126sm3596997wme.17 - gsmtp<EOL>
+20/07/23 13:26:32 ** Disconnected.
+20/07/23 13:26:32 ** Disconnected.
+20/07/23 13:26:32 ** Disconnected.
+20/07/23 13:32:06 ** --- MESSAGE BEGIN ---
+20/07/23 13:32:06 ** To: Amirimohamed1999@gmail.com
+20/07/23 13:32:06 ** Subject: Payment - Ecommerce Ensa
+20/07/23 13:32:06 ** From: ecommerceensa@gmail.com
+20/07/23 13:32:06 ** 
+20/07/23 13:32:06 ** Bonjour,
+20/07/23 13:32:06 ** Nous vous informons que votre transaction a bien été confirmée. Voici le détail de l’opération :
+20/07/23 13:32:06 ** 
+20/07/23 13:32:06 ** Site web : ecommerceensa
+20/07/23 13:32:06 ** Nom du client : 
+20/07/23 13:32:06 ** Email du client  : Amirimohamed1999@gmail.com
+20/07/23 13:32:06 ** Montant transaction : 4999 MAD
+20/07/23 13:32:06 ** Pour plus d'informations, prière de prendre contact avec votre marchand.
+20/07/23 13:32:06 ** On vous remercie.
+20/07/23 13:32:06 ** --- MESSAGE END ---
+20/07/23 13:32:06 ** Connecting to smtp.gmail.com:465
+20/07/23 13:32:08 ** Connected.
+20/07/23 13:32:08 << 220 smtp.gmail.com ESMTP 2sm3288038wmo.44 - gsmtp<EOL>
+20/07/23 13:32:08 >> EHLO DESKTOP-JPU7NVE<EOL>
+20/07/23 13:32:08 << 250-smtp.gmail.com at your service, [105.67.129.152]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/23 13:32:08 ** Authenticating as ecommerceensa@gmail.com
+20/07/23 13:32:08 >> AUTH LOGIN<EOL>
+20/07/23 13:32:08 << 334 VXNlcm5hbWU6<EOL>
+20/07/23 13:32:08 >> ZWNvbW1lcmNlZW5zYUBnbWFpbC5jb20=<EOL>
+20/07/23 13:32:09 << 334 UGFzc3dvcmQ6<EOL>
+20/07/23 13:32:09 >> RW5zYTAxMjM=<EOL>
+20/07/23 13:32:09 << 235 2.7.0 Accepted<EOL>
+20/07/23 13:32:09 >> MAIL FROM: <ecommerceensa@gmail.com><EOL>
+20/07/23 13:32:09 << 250 2.1.0 OK 2sm3288038wmo.44 - gsmtp<EOL>
+20/07/23 13:32:09 >> RCPT TO: <Amirimohamed1999@gmail.com><EOL>
+20/07/23 13:32:09 << 250 2.1.5 OK 2sm3288038wmo.44 - gsmtp<EOL>
+20/07/23 13:32:09 >> DATA<EOL>
+20/07/23 13:32:09 << 354  Go ahead 2sm3288038wmo.44 - gsmtp<EOL>
+20/07/23 13:32:09 >> Date: Thu, 23 Jul 2020 13:32:09 +0100<EOL>
+20/07/23 13:32:09 >> To: Amirimohamed1999@gmail.com<EOL>
+20/07/23 13:32:09 >> Subject: Payment - Ecommerce Ensa<EOL>
+20/07/23 13:32:09 >> From: ecommerceensa@gmail.com<EOL>
+20/07/23 13:32:09 >> <EOL>
+20/07/23 13:32:09 >> Bonjour,<EOL>
+20/07/23 13:32:09 >> Nous vous informons que votre transaction a bien été confirmée. Voici le détail de l’opération :<EOL>
+20/07/23 13:32:09 >> <EOL>
+20/07/23 13:32:09 >> Site web : ecommerceensa<EOL>
+20/07/23 13:32:09 >> Nom du client : <EOL>
+20/07/23 13:32:09 >> Email du client  : Amirimohamed1999@gmail.com<EOL>
+20/07/23 13:32:09 >> Montant transaction : 4999 MAD<EOL>
+20/07/23 13:32:09 >> Pour plus d'informations, prière de prendre contact avec votre marchand.<EOL>
+20/07/23 13:32:09 >> On vous remercie.<EOL>
+20/07/23 13:32:09 >> .<EOL>
+20/07/23 13:32:10 << 250 2.0.0 OK  1595507531 2sm3288038wmo.44 - gsmtp<EOL>
+20/07/23 13:32:10 >> QUIT<EOL>
+20/07/23 13:32:10 << 221 2.0.0 closing connection 2sm3288038wmo.44 - gsmtp<EOL>
+20/07/23 13:32:10 ** Disconnected.
+20/07/23 13:32:10 ** Disconnected.
+20/07/23 13:32:10 ** Disconnected.
+20/07/24 10:43:46 ** --- MESSAGE BEGIN ---
+20/07/24 10:43:46 ** To: amine98ben90@gmail.com
+20/07/24 10:43:46 ** Subject: Payment - Ecommerce Ensa
+20/07/24 10:43:46 ** From: ecommerceensa@gmail.com
+20/07/24 10:43:46 ** 
+20/07/24 10:43:46 ** Hi,
+20/07/24 10:43:46 ** We inform you that your transaction has been confirmed. Here is the detail of the operation:
+20/07/24 10:43:46 ** 
+20/07/24 10:43:46 ** Web site: ecommerceensa
+20/07/24 10:43:46 ** Client name : Mohamed Amine benaicha
+20/07/24 10:43:46 ** 			Client Email:amine98ben90@gmail.com
+20/07/24 10:43:46 ** 			Transaction amount : 2499.5 MAD
+20/07/24 10:43:46 ** 			For more information, please contact your dealer.
+20/07/24 10:43:46 ** 			thank you.
+20/07/24 10:43:46 ** --- MESSAGE END ---
+20/07/24 10:43:47 ** Connecting to smtp.gmail.com:465
+20/07/24 10:43:47 ** Connected.
+20/07/24 10:43:47 << 220 smtp.gmail.com ESMTP g145sm9982835wmg.23 - gsmtp<EOL>
+20/07/24 10:43:47 >> EHLO DESKTOP-JPU7NVE<EOL>
+20/07/24 10:43:47 << 250-smtp.gmail.com at your service, [105.66.6.144]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/07/24 10:43:47 ** Authenticating as ecommerceensa@gmail.com
+20/07/24 10:43:47 >> AUTH LOGIN<EOL>
+20/07/24 10:43:47 << 334 VXNlcm5hbWU6<EOL>
+20/07/24 10:43:47 >> ZWNvbW1lcmNlZW5zYUBnbWFpbC5jb20=<EOL>
+20/07/24 10:43:48 << 334 UGFzc3dvcmQ6<EOL>
+20/07/24 10:43:48 >> RW5zYTAxMjM=<EOL>
+20/07/24 10:43:48 << 235 2.7.0 Accepted<EOL>
+20/07/24 10:43:48 >> MAIL FROM: <ecommerceensa@gmail.com><EOL>
+20/07/24 10:43:48 << 250 2.1.0 OK g145sm9982835wmg.23 - gsmtp<EOL>
+20/07/24 10:43:48 >> RCPT TO: <amine98ben90@gmail.com><EOL>
+20/07/24 10:43:48 << 250 2.1.5 OK g145sm9982835wmg.23 - gsmtp<EOL>
+20/07/24 10:43:48 >> DATA<EOL>
+20/07/24 10:43:49 << 354  Go ahead g145sm9982835wmg.23 - gsmtp<EOL>
+20/07/24 10:43:49 >> Date: Fri, 24 Jul 2020 10:43:49 +0100<EOL>
+20/07/24 10:43:49 >> To: amine98ben90@gmail.com<EOL>
+20/07/24 10:43:49 >> Subject: Payment - Ecommerce Ensa<EOL>
+20/07/24 10:43:49 >> From: ecommerceensa@gmail.com<EOL>
+20/07/24 10:43:49 >> <EOL>
+20/07/24 10:43:49 >> Hi,<EOL>
+20/07/24 10:43:49 >> We inform you that your transaction has been confirmed. Here is the detail of the operation:<EOL>
+20/07/24 10:43:49 >> <EOL>
+20/07/24 10:43:49 >> Web site: ecommerceensa<EOL>
+20/07/24 10:43:49 >> Client name : Mohamed Amine benaicha<EOL>
+20/07/24 10:43:49 >> 			Client Email:amine98ben90@gmail.com<EOL>
+20/07/24 10:43:49 >> 			Transaction amount : 2499.5 MAD<EOL>
+20/07/24 10:43:49 >> 			For more information, please contact your dealer.<EOL>
+20/07/24 10:43:49 >> 			thank you.<EOL>
+20/07/24 10:43:49 >> .<EOL>
+20/07/24 10:43:49 << 250 2.0.0 OK  1595583830 g145sm9982835wmg.23 - gsmtp<EOL>
+20/07/24 10:43:49 >> QUIT<EOL>
+20/07/24 10:43:50 << 221 2.0.0 closing connection g145sm9982835wmg.23 - gsmtp<EOL>
+20/07/24 10:43:50 ** Disconnected.
+20/07/24 10:43:50 ** Disconnected.
+20/07/24 10:43:50 ** Disconnected.
