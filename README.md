@@ -66,3 +66,18 @@ At the end of the project we managed to achieve a great success with a well-made
 
 ![8 Payment Page](https://user-images.githubusercontent.com/75227040/134667784-a79ca706-fc37-40ef-b093-4fe23fe58075.png)
 
+###### Dashboard authentication (Login)
+
+![1 ADMIN AUTHENTIFICATION PAGE](https://user-images.githubusercontent.com/75227040/134668927-7efe7b11-e53c-4cb9-a73a-3d2fe79c9c14.png)
+
+###### The main dashboard page
+
+![2 Dashboard Page](https://user-images.githubusercontent.com/75227040/134668973-aa408356-d84f-4ed0-8dbe-658b64e8643f.png)
+
+###### The products management page
+
+![3 Products Management page](https://user-images.githubusercontent.com/75227040/134669026-ba2169f1-3154-4c9a-a6f2-e2f9e19f5d7e.png)
+
+###### The categories management page
+
+![4 Categories management page](https://user-images.githubusercontent.com/75227040/134669065-d48882fc-5b2d-4996-8c66-b245a444dce9.png)
