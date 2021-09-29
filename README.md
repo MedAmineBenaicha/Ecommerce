@@ -20,7 +20,7 @@
 - PHP
 
 ### Business Size Experience
-Small (10-99 employees)
+Small (10-99 employees).
 
 
 ## Project description :
@@ -30,8 +30,8 @@ Small (10-99 employees)
  So, as a developer, I was asked to design and create an E-commerce web site for electronic devices which facilitates the communication between the product owners and the clients.
 
 N.B: The work is done with the following technologies
-- Backend: PhP
-- Frontend: Html5 - Css3 - Javascript - Bootstrap
+- Backend: PhP.
+- Frontend: Html5 - Css3 - Javascript - Bootstrap.
 
 At the end of the project we managed to achieve a great success with a well-made platform while respecting the specifications and making our client very satisfied with the result.
 
